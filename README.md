@@ -33,7 +33,7 @@ mvn spring-boot:run
 # Output
 
 ### 1. `/similarity` Endpoint Response
-![Similarity Result](output/similarity-output.png)
+![Similarity Result](https://raw.githubusercontent.com/Mahmoudelsayed5/fileSimilarity/main/output/similarity-output.png)
 
 ### 2. `/similarity/benchmark` Endpoint Response
 ![Benchmark Result](output/benchmark-output.png)
